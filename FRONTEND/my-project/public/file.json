@@ -1,0 +1,68 @@
+
+    [
+        {
+        "id": 11,
+        "name": "Python Book",
+        "title": "New Python Book",
+        "author": "Nabin Adhikari",
+        "price": 202,
+        "image": "card.jpg",
+        "category": "Paid"
+        },
+        {
+            "id": 12,
+            "name": "JavaScript Book",
+            "title": "New JavaScript Book",
+            "author": "Nabin Adhikari",
+            "price": 200,
+            "image": "card.jpg",
+            "category": "Free"
+        },
+        {
+            "id": 13,
+            "name": "React Book",
+            "title": "New React Book",
+            "author": "Nabin Adhikari",
+            "price": 199,
+            "image": "card.jpg",
+            "category": "Paid"
+        },
+    {
+        "id": 14,
+        "name": "Node.js Book",
+        "title": "New Node.js Book",
+        "author": "Nabin Adhikari",
+        "price": 198,
+        "image": "card.jpg",
+        "category": "Paid"
+    },
+    {
+        "id": 15,
+        "name": "Angular Book",
+        "title": "New Angular Book",
+        "author": "Nabin Adhikari",
+        "price": 197,
+        "image": "card.jpg",
+        "category": "Free"
+    },
+    {
+        "id": 16,
+        "name": "Python With AI Book",
+        "title": "New Python With AI Book",
+        "author": "Nabin Adhikari",
+        "price": 207,
+        "image": "card.jpg",
+        "category": "Paid"
+    },
+    {
+        "id": 17,
+        "name": "Web Development Book",
+        "title": "Complete Web Dev Book",
+        "author": "Nabin Adhikari",
+        "price": 200,
+        "image": "card.jpg",
+        "category": "Paid"
+    }
+
+        
+    ]
